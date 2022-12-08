@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @brodie02
 - 👀 I’m interested in working out, playing FIFA
-- 🌱 I’m currently learning Javascript, Web APIS in a coding bootcamp!
+- 🌱 I’m currently studying in a full stack JavaScript bootcamp!
 - 💞️ I’m looking to collaborate on -
 - 📫 How to reach me: marshallbrodie0@gmail.com
 
